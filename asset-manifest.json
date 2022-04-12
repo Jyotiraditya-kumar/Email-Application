@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Email-Application/static/css/main.d1671357.css",
+    "main.js": "/Email-Application/static/js/main.b523db4b.js",
+    "index.html": "/Email-Application/index.html",
+    "main.d1671357.css.map": "/Email-Application/static/css/main.d1671357.css.map",
+    "main.b523db4b.js.map": "/Email-Application/static/js/main.b523db4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1671357.css",
+    "static/js/main.b523db4b.js"
+  ]
+}
